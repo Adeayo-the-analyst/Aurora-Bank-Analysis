@@ -1,10 +1,10 @@
-# 📊 Aurora Bank Customer Insights Project
+# Aurora Bank Customer Insights Project
 
 This project explores customer data to uncover patterns in behavior, financial risk, and engagement. The analysis is divided into two core focus areas to support Aurora Bank’s decision-making.
 
 ---
 
-## 🔍 Key Areas of Focus
+## Key Areas of Focus
 
 ### 1. Customer Profiling & Segmentation
 - **Demographic Distribution**: Analyzing gender, age, and income to tailor financial products.
@@ -19,7 +19,7 @@ This project explores customer data to uncover patterns in behavior, financial r
 
 ---
 
-## ⏳ Dataset Overview
+## Dataset Overview
 
 - **Timeframe**: 2 years  
 - **Total Transactions**: 157,224  
@@ -37,7 +37,7 @@ This project explores customer data to uncover patterns in behavior, financial r
 
 ---
 
-## 👥 Customer Demographics & Behavior
+## Customer Demographics & Behavior
 
 - **Gender Split**: Female (1,016) – 50.8%, Male (984) – 49.2%  
 - **Spending**: Women outspent men by 13%  
@@ -73,7 +73,7 @@ This project explores customer data to uncover patterns in behavior, financial r
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Static dataset; no real-time tracking  
 - Focused on descriptive insights, no machine learning  
@@ -82,17 +82,15 @@ This project explores customer data to uncover patterns in behavior, financial r
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 Recommendations were made around:
 - Personalized banking services by demographic
 - Enhancing fraud detection and risk assessment
-- Encouraging digital adoption among youths  
-*Full details are available in the accompanying report
-## 📬 Let's Connect
+- Encouraging digital adoption among youths
+- Full details 
 
-If you're interested in data-driven solutions or want to discuss the methodology behind this project, feel free to connect with me on (www.linkedin.com/in/adeayo-adewale-30a472171) or read the full 79-page case study here:  
-🔗 [Aurora Bank: A Deep Dive into a Bank's Operations Using Data](https://medium.com/@adeayoadewale/aurora-bank-a-deep-dive-into-a-banks-operations-using-data-3c96bf874e20)
+
 
 Your feedback or collaboration ideas are always welcome!
 
